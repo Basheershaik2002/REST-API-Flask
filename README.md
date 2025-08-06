@@ -2,13 +2,6 @@
 
 This project demonstrates how to build a simple RESTful API using Flask and  i connect it with a frontend built using Streamlit. The API allows users to be added, updated, and retrieved using standard HTTP methods.
 
-### Live Deployment
-
-### Streamlit Frontend (Live Link):  
-**https://rest-api-flask-7fug8ilmae679w7c3xfr7l.streamlit.app/**
-
-
-
 #### Features
 
 Add User – Submit a username and email
@@ -85,7 +78,3 @@ The Streamlit interface includes:
 - Option to update existing user email
 - Real-time display of all users after actions
 
-### Important Links
-
-🚀 Live Frontend (Streamlit):**https://rest-api-flask-7fug8ilmae679w7c3xfr7l.streamlit.app/  **
-🗃️ Backend: Flask (Run Locally)
